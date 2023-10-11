@@ -1,2 +1,5 @@
-# portfolio1
-landing page criada para testar minhas habilidades em HTML, CSS e javascript
+# Portfolio
+
+This is my portfolio with some of my works and a little of my story.
+
+Feel free to use!
